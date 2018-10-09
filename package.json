@@ -1,0 +1,26 @@
+{
+  "name": "parse-numbers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emanuele-Spatola/parse-numbers.git"
+  },
+  "author": "Emanuele Spatola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emanuele-Spatola/parse-numbers/issues"
+  },
+  "homepage": "https://github.com/Emanuele-Spatola/parse-numbers#readme"
+}
